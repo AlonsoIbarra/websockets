@@ -1,0 +1,7 @@
+para instanciar el proyecto se instalan las siguientes librerias:
+  nodejs
+  nodemon
+  express
+  socket.io
+
+Este proyecto es un ejemplo de como crear un chat básico utilizando web sockets.
